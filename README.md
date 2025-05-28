@@ -14,7 +14,7 @@ This logo was created as part of **Task 3** for my internship at **OSS Infobyte*
 - **Typography**: The bold "AN" monogram stands for strength and vision.
 
 ## Tools Used:
-- Adobe Illustrator / Photoshop (or your preferred tool – edit as needed)
+-Canva
 - Creativity and Design Thinking
 
 ## Outcome:
